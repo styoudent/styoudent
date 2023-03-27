@@ -1,3 +1,6 @@
+My professional objective is to become a Junior Java Developer. I am committed to pursuing a career in IT and have dedicated myself to full-time development of programming skills. On top of that, I have developed a good foundation through Computer Science faculties at the university. I am eager to join a team where I can contribute with my knowledge and experience while continuing to learn and grow.
+
+
 <!--
 ### Hi there 👋
 

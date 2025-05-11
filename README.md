@@ -1,4 +1,4 @@
-My professional objective is to become a Junior Java Developer. I am committed to pursuing a career in IT and have dedicated myself to full-time development of programming skills. On top of that, I have developed a good foundation through Computer Science faculties at the university. I am eager to join a team where I can contribute with my knowledge and experience while continuing to learn and grow.
+As an IT systems analyst, I thrive in the role of a bridge between business users and technical teams. Each new project is an opportunity to learn something new – from gathering requirements and analyzing processes to close collaboration with development teams. I focus on building a strong technical foundation and enhancing my skills in user needs analysis to design functional and effective solutions. I aim to grow further toward IT solution architecture by deepening my knowledge of system structure, integration, and security.
 
 
 <!--

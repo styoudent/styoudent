@@ -1,4 +1,4 @@
-As an IT systems analyst, I thrive in the role of a bridge between business users and technical teams. Each new project is an opportunity to learn something new – from gathering requirements and analyzing processes to close collaboration with development teams. I focus on building a strong technical foundation and enhancing my skills in user needs analysis to design functional and effective solutions. I aim to grow further toward IT solution architecture by deepening my knowledge of system structure, integration, and security.
+As an IT systems analyst, I thrive in the role of a bridge between business users and technical teams. Each new project is an opportunity to learn something new, from gathering requirements and analyzing processes to close collaboration with development teams. I focus on building a strong technical foundation and enhancing my skills in user needs analysis to design functional and effective solutions. I aim to progress in IT solution architecture by deepening my knowledge of system structure, integration, and security.
 
 
 <!--
